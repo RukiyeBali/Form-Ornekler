@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Ornek-1\Ornek-1\bin\Debug\Ornek-1.exe.config
+C:\Users\User\Desktop\Ornek-1\Ornek-1\bin\Debug\Ornek-1.exe
+C:\Users\User\Desktop\Ornek-1\Ornek-1\bin\Debug\Ornek-1.pdb
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek_1.Form1.resources
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek_1.Properties.Resources.resources
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.exe
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek-1.pdb
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek_1.KitapEkle.resources
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek_1.KitapTeslim.resources
+C:\Users\User\Desktop\Ornek-1\Ornek-1\obj\Debug\Ornek_1.OgrenciEkle.resources
